@@ -3,3 +3,4 @@
 ![img](weixin01.png)
 - 部分请求判断了referer来源，但是referer为空时允许请求，可以通过iframe来实现
 - web版微信功能较少
+- [先睹为快](https://zzzzfeng.github.io/KeePwd/wx.html)
